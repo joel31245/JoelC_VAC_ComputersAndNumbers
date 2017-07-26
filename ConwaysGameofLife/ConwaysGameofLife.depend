@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500411583 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\computers and numbers, dr amit amritkar\conwaysgameoflife\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

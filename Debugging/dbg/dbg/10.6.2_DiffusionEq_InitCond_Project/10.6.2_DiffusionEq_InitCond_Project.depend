@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1501088189 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\computers and numbers, dr amit amritkar\debugging\dbg\dbg\10.6.2_diffusioneq_initcond_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

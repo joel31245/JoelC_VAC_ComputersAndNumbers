@@ -1,0 +1,20 @@
+GNU gdb (GDB) Red Hat Enterprise Linux (7.2-83.el6)
+Copyright (C) 2010 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-redhat-linux-gnu".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from /home/amritkar/dbg/bounder/bounder...(no debugging symbols found)...done.
+(gdb) Starting program: /home/amritkar/dbg/bounder/bounder 
+
+Program received signal SIGBUS, Bus error.
+0x0000000000401848 in test02_ ()
+Missing separate debuginfos, use: debuginfo-install glibc-2.12-1.166.el6_7.3.x86_64 libgcc-4.4.7-16.el6.x86_64 libgfortran-4.4.7-16.el6.x86_64
+(gdb) (gdb) A debugging session is active.
+
+	Inferior 1 [process 35568] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

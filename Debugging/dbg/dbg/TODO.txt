@@ -1,0 +1,7 @@
+Dont think that UBUNTU Installed Properly. Waiting On Windows Update.
+
+DONE					Crash.cc
+DONE					g2.f90
+NOTHING TODO. MAYBE COMMENT OUT THE PARALEL	hello.c
+UNKNOWN WORKING FINE, atoi		Ins.c		Ins.sol
+error Identified. Unsure how to fix	bounder.f90

@@ -1,0 +1,15 @@
+cd 	(change directory)
+dir 	(listing)
+git clone	(copy's reposityory into place)
+git status	(Show what is diff between us and github)
+git add		(Adds into the repository)[ . OR -a adds all files]
+git commit -m	(Commits it into git with message string)
+git push	(Syncs it into github)
+git pull	(Pulls it down from github. Ensure you in the right repository.)
+
+if ever stuck with git do (esc) :wq 
+
+git branch 	(Returns all the branches. Add a name to create a new branch)
+git checkout	(Gives your computer the code copy)
+	then status, add, commit, push
+git merge	(if conflicts, git creates message in the actual file. Manually change)
